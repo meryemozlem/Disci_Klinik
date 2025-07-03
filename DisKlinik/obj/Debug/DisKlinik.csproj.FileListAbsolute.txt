@@ -1,0 +1,17 @@
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\bin\Debug\DisKlinik.exe.config
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\bin\Debug\DisKlinik.exe
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\bin\Debug\DisKlinik.pdb
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\bin\Debug\Guna.UI2.dll
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\obj\Debug\DisKlinik.csproj.AssemblyReference.cache
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\obj\Debug\DisKlinik.Form1.resources
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\obj\Debug\DisKlinik.Properties.Resources.resources
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\obj\Debug\DisKlinik.csproj.GenerateResource.cache
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\obj\Debug\DisKlinik.csproj.CoreCompileInputs.cache
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\obj\Debug\DisKlinik.csproj.Up2Date
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\obj\Debug\DisKlinik.exe
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\obj\Debug\DisKlinik.pdb
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\obj\Debug\DisKlinik.Main.resources
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\obj\Debug\DisKlinik.Patient.resources
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\obj\Debug\DisKlinik.Randevu.resources
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\obj\Debug\DisKlinik.Receteler.resources
+C:\Users\mozay\Desktop\DisKlinik\DisKlinik\obj\Debug\DisKlinik.Tedavi.resources
