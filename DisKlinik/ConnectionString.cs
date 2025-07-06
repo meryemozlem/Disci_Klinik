@@ -12,7 +12,7 @@ namespace DisKlinik
         public SqlConnection GetCon() 
         {
             SqlConnection baglanti = new SqlConnection();
-            baglanti.ConnectionString= //;
+            baglanti.ConnectionString= //kendi yerel db kısmınızı yapıştırın.;
             return baglanti;
 
         }
