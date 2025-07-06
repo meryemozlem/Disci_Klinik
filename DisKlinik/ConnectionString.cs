@@ -12,7 +12,7 @@ namespace DisKlinik
         public SqlConnection GetCon() 
         {
             SqlConnection baglanti = new SqlConnection();
-            baglanti.ConnectionString= @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\mozay\Documents\DentalDb.mdf;Integrated Security=True;Connect Timeout=30";
+            baglanti.ConnectionString= //;
             return baglanti;
 
         }
