@@ -23,7 +23,7 @@ namespace DisKlinik
             string query = "INSERT INTO HastaTBL (HAd, HTel, HAdres, HDTarih, HCinsiyet, HAlerji) " +
                            "VALUES (@adSoyad, @tel, @adres, @dogTar, @cinsiyet, @alerji)";
 
-            SqlConnection baglanti = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\mozay\\Documents\\DentalDb.mdf;Integrated Security=True;Connect Timeout=30");
+            SqlConnection baglanti = new SqlConnection(//kendi yerel db adresiniz.);
             SqlCommand cmd = new SqlCommand(query, baglanti);
 
             cmd.Parameters.AddWithValue("@adSoyad", HAdSoyadtb.Text);
