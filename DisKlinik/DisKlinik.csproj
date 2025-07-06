@@ -87,6 +87,7 @@
     <Compile Include="Receteler.Designer.cs">
       <DependentUpon>Receteler.cs</DependentUpon>
     </Compile>
+    <Compile Include="Recete_Class.cs" />
     <Compile Include="Tedavi.cs">
       <SubType>Form</SubType>
     </Compile>

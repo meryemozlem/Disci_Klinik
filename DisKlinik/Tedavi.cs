@@ -99,7 +99,14 @@ namespace DisKlinik
             tutarTB.Text = "";
             aciklamaTB.Text = null; 
         }
-
+        void Filter()
+        {
+            //filtreleme kutusu adını yazdım. sağdaki.
+            Hastalar Hs = new Hastalar();
+            string query = "select * from TedaviTBL where TedAd like '%" + AraTB.Text + "%'";
+            DataSet ds = Hs.ShowHasta(query);
+            TedaviDGWiev.DataSource = ds.Tables[0];
+        }
         private void Tedavi_Load(object sender, EventArgs e)
         {
             Uyeler();
@@ -126,6 +133,39 @@ namespace DisKlinik
         private void guna2CircleButton1_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void guna2CircleButton2_Click(object sender, EventArgs e)
+        {
+            Main mn = new Main();
+            mn.Show();
+            this.Hide();
+        }
+
+        private void guna2GradientButton7_Click(object sender, EventArgs e)
+        {
+            Patient hs=new Patient();
+            hs.Show();
+            this.Hide();
+        }
+
+        private void guna2GradientButton6_Click(object sender, EventArgs e)
+        {
+            Randevu rnd = new Randevu();
+            rnd.Show();
+            this.Hide();
+        }
+
+        private void guna2GradientButton8_Click(object sender, EventArgs e)
+        {
+            Receteler rct = new Receteler();
+            rct.Show();
+            this.Hide();
+        }
+
+        private void guna2TextBox6_TextChanged(object sender, EventArgs e)
+        {
+            Filter();
         }
     }
 }

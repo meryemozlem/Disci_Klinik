@@ -68,7 +68,13 @@ namespace DisKlinik
             DataSet ds = Hs.ShowHasta(query);
             HastaDGWiev.DataSource = ds.Tables[0];
         }
-
+        void Filter() 
+        {
+            Hastalar Hs = new Hastalar();
+            string query = "select * from HastaTBL where HAd like '%" + guna2TextBox6.Text + "%'";
+            DataSet ds = Hs.ShowHasta(query);
+            HastaDGWiev.DataSource = ds.Tables[0];
+        }
         void Reset() 
         {
             HTCtb.Text = "";
@@ -79,7 +85,7 @@ namespace DisKlinik
             HCinsiyetCB.SelectedItem = "";
             //null
             HAlerji.Text = "";
-          
+     
         }
 
         private void Patient_Load(object sender, EventArgs e)
@@ -159,9 +165,38 @@ namespace DisKlinik
             }
         }
 
-        private void HastaDGWiev_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
 
+        private void guna2CircleButton2_Click(object sender, EventArgs e)
+        {
+            Main mn = new Main();
+            mn.Show();
+            this.Hide();
+        }
+
+        private void guna2GradientButton6_Click(object sender, EventArgs e)
+        {
+            Randevu rnd = new Randevu();
+            rnd.Show();
+            this.Hide();
+        }
+
+        private void guna2GradientButton9_Click(object sender, EventArgs e)
+        {
+            Tedavi td = new Tedavi();
+            td.Show();
+            this.Hide();
+        }
+
+        private void guna2GradientButton8_Click(object sender, EventArgs e)
+        {
+            Receteler rct = new Receteler();
+            rct.Show();
+            this.Hide();
+        }
+
+        private void guna2TextBox6_TextChanged(object sender, EventArgs e)
+        {
+            Filter();
         }
     }
 }

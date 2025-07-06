@@ -16,7 +16,7 @@ namespace DisKlinik
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Randevu());
+            Application.Run(new Main());
         }
     }
 }

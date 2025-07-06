@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\mozay\\Desktop\\DisKlinik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|C:\\Users\\mozay\\Desktop\\DisKlinik\\disklinik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|c:\\users\\mozay\\desktop\\disklinik\\disklinik\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|C:\\Users\\mozay\\Desktop\\DisKlinik\\disklinik\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|C:\\Users\\mozay\\Desktop\\DisKlinik\\disklinik\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|C:\\Users\\mozay\\Desktop\\DisKlinik\\disklinik\\receteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\receteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|C:\\Users\\mozay\\Desktop\\DisKlinik\\disklinik\\receteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\receteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|c:\\users\\mozay\\desktop\\disklinik\\disklinik\\receteler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\receteler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|c:\\users\\mozay\\desktop\\disklinik\\disklinik\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|c:\\users\\mozay\\desktop\\disklinik\\disklinik\\tedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|C:\\Users\\mozay\\Desktop\\DisKlinik\\disklinik\\tedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\tedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,36 +43,36 @@
       "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\tedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|c:\\users\\mozay\\desktop\\disklinik\\disklinik\\tedavilcesit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\tedavilcesit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|c:\\users\\mozay\\desktop\\disklinik\\disklinik\\tedavi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\tedavi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|C:\\Users\\mozay\\Desktop\\DisKlinik\\disklinik\\receteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\receteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|c:\\users\\mozay\\desktop\\disklinik\\disklinik\\hastalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\hastalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|c:\\users\\mozay\\desktop\\disklinik\\disklinik\\receteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\receteler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|c:\\users\\mozay\\desktop\\disklinik\\disklinik\\recete_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\recete_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|c:\\users\\mozay\\desktop\\disklinik\\disklinik\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|C:\\Users\\mozay\\Desktop\\DisKlinik\\disklinik\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|c:\\users\\mozay\\desktop\\disklinik\\disklinik\\patient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\patient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|C:\\Users\\mozay\\Desktop\\DisKlinik\\disklinik\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|c:\\users\\mozay\\desktop\\disklinik\\disklinik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|C:\\Users\\mozay\\Desktop\\DisKlinik\\disklinik\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|C:\\Users\\mozay\\Desktop\\DisKlinik\\disklinik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|C:\\Users\\mozay\\Desktop\\DisKlinik\\disklinik\\tedavilcesit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|solutionrelative:disklinik\\tedavilcesit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D4820FA-E030-4A72-8BC5-946F239E3F7E}|DisKlinik\\DisKlinik.csproj|C:\\Users\\mozay\\Desktop\\DisKlinik\\disklinik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,76 +86,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
+              "Title": "Patient.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Patient.Designer.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Patient.Designer.cs",
+              "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Patient.Designer.cs",
+              "RelativeToolTip": "DisKlinik\\Patient.Designer.cs",
+              "ViewState": "AgIAAA4CAAAAAAAAAAAlwB0CAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:20:02.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hastalar.cs",
+              "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Hastalar.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Hastalar.cs",
+              "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Hastalar.cs",
+              "RelativeToolTip": "DisKlinik\\Hastalar.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:54:10.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Recete_Class.cs",
+              "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Recete_Class.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Recete_Class.cs",
+              "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Recete_Class.cs",
+              "RelativeToolTip": "DisKlinik\\Recete_Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:53:50.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Receteler.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Receteler.Designer.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Receteler.Designer.cs",
+              "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Receteler.Designer.cs",
+              "RelativeToolTip": "DisKlinik\\Receteler.Designer.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAlwJUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:30:39.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tedavi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Tedavi.Designer.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Tedavi.Designer.cs",
+              "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Tedavi.Designer.cs",
+              "RelativeToolTip": "DisKlinik\\Tedavi.Designer.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAlwIUBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:30:03.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Main.cs",
+              "RelativeDocumentMoniker": "DisKlinik\\Main.cs",
+              "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Main.cs",
+              "RelativeToolTip": "DisKlinik\\Main.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:08:18.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Randevu.cs",
               "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Randevu.cs",
               "RelativeDocumentMoniker": "DisKlinik\\Randevu.cs",
               "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Randevu.cs",
               "RelativeToolTip": "DisKlinik\\Randevu.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAjwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANUAAAAAAAAAAAAawOMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T11:36:15.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Receteler.cs",
               "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Receteler.cs",
               "RelativeDocumentMoniker": "DisKlinik\\Receteler.cs",
               "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Receteler.cs",
               "RelativeToolTip": "DisKlinik\\Receteler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAawPQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T09:47:07.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Patient.cs",
               "RelativeDocumentMoniker": "DisKlinik\\Patient.cs",
               "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Patient.cs",
               "RelativeToolTip": "DisKlinik\\Patient.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAIA6wGYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T09:24:18.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Tedavi.cs",
               "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Tedavi.cs",
               "RelativeDocumentMoniker": "DisKlinik\\Tedavi.cs",
               "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Tedavi.cs",
               "RelativeToolTip": "DisKlinik\\Tedavi.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAnwH8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAJsAAAAARGFQy8krwKsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T09:23:00.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "TedavilCesit.cs",
               "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\TedavilCesit.cs",
               "RelativeDocumentMoniker": "DisKlinik\\TedavilCesit.cs",
               "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\TedavilCesit.cs",
               "RelativeToolTip": "DisKlinik\\TedavilCesit.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwDsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T09:21:05.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Receteler.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Receteler.cs",
               "RelativeDocumentMoniker": "DisKlinik\\Receteler.cs",
@@ -147,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Tedavi.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Tedavi.cs",
               "RelativeDocumentMoniker": "DisKlinik\\Tedavi.cs",
@@ -159,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Randevu.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Randevu.cs",
               "RelativeDocumentMoniker": "DisKlinik\\Randevu.cs",
@@ -171,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Patient.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Patient.cs",
               "RelativeDocumentMoniker": "DisKlinik\\Patient.cs",
@@ -183,30 +281,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Form1.cs",
-              "RelativeDocumentMoniker": "DisKlinik\\Form1.cs",
-              "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "DisKlinik\\Form1.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T11:06:15.936Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Main.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Main.cs",
               "RelativeDocumentMoniker": "DisKlinik\\Main.cs",
               "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Main.cs [Tasar\u0131m]",
               "RelativeToolTip": "DisKlinik\\Main.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T11:38:04.219Z"
+              "WhenOpened": "2025-06-26T11:38:04.219Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Form1.cs",
               "RelativeDocumentMoniker": "DisKlinik\\Form1.cs",
@@ -214,12 +301,11 @@
               "RelativeToolTip": "DisKlinik\\Form1.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAMwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T11:22:49.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T11:22:49.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\packages.config",
               "RelativeDocumentMoniker": "DisKlinik\\packages.config",
@@ -232,13 +318,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Program.cs",
               "RelativeDocumentMoniker": "DisKlinik\\Program.cs",
               "ToolTip": "C:\\Users\\mozay\\Desktop\\DisKlinik\\DisKlinik\\Program.cs",
               "RelativeToolTip": "DisKlinik\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T11:09:26.842Z",
               "EditorCaption": ""
