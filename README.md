@@ -15,7 +15,6 @@ Bu proje, bir diş kliniğinin temel operasyonlarını kolaylaştırmak amacıyl
 
 - C# (Windows Forms)
 - SQL Server (LocalDB)
-- ADO.NET (Veritabanı işlemleri)
 - Guna UI2 (Tasarım bileşenleri)
 
 Herhangi bir soru, öneri veya geri bildirim için bana ulaşabilirsiniz.
